@@ -9,10 +9,10 @@ Hz del monitor
 160Hz
 
 Graficos
-lo mas bajo posible
+lo mas bajo posible para mas optimizacion
 
 resolucionFX 
-calidad alta o calidad
+calidad alta o calidad (desactivado por mejor vision)
 
 sin contraste de jugadores 
 sinc vertical desactivada
